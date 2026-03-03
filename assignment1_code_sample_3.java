@@ -71,3 +71,5 @@ public class VulnerableApp {
         sendEmail("admin@example.com", "User Input", userInput);
     }
 }
+
+// sigma boy s
